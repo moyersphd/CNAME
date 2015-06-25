@@ -1,0 +1,2 @@
+# CNAME
+www.moyersphd.com
